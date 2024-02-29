@@ -28,3 +28,7 @@
 - indian pizza: pizza made with an indian twist  (Price:$6)
 - italian pizza: pizza made with an italian twist  (Price:$6)
  
+ ## weekend deal 
+- biryani at 50% off
+- Price: $20
+- Discount: 10% extra off for loyal customers.
