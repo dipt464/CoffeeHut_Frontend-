@@ -1,4 +1,11 @@
-coffee - hot coffee -price:$5
-momos - spicy momos - price:$10
-pizza - italian pizza - price:$20
-tilkut - crunchy tilkul - price:$25
+coffee - hot coffee 
+- latte coffee- price:$5
+- chocolate coffee- price:$6
+- gold coffee- price:$7
+momos - spicy momos
+- veg momos - price:$10
+- chicken momos -price:$15
+pizza - italian pizza 
+- veg pizza -price:$20
+-  non-veg pizza :$25
+
