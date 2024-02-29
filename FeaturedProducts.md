@@ -24,3 +24,7 @@
 - black tilkut : tilkut made up of black seed (Price:$5)
 - white tilkut : tilkut made up of white seed(Price:$5)
 
+## Monday deals (**only for our loyal customers)
+- indian pizza: pizza made with an indian twist  (Price:$6)
+- italian pizza: pizza made with an italian twist  (Price:$6)
+ 
