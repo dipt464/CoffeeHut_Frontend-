@@ -16,19 +16,19 @@
 
 
 ## Thursday's Selection
-- orange juice: juice made up of orange (price:$10)
-- mango juice: juice made up of mangoes (price:$10)
+- Orange juice: juice made up of orange (price:$10)
+- Mango juice: juice made up of mangoes (price:$10)
 
 
 ## Friday's Deals
-- black tilkut : tilkut made up of black seed (Price:$5)
-- white tilkut : tilkut made up of white seed(Price:$5)
+- Black tilkut : tilkut made up of black seed (Price:$5)
+- White tilkut : tilkut made up of white seed(Price:$5)
 
 ## Monday deals (**only for our loyal customers)
-- indian pizza: pizza made with an indian twist  (Price:$6)
-- italian pizza: pizza made with an italian twist  (Price:$6)
+- Indian pizza: pizza made with an indian twist  (Price:$6)
+- Italian pizza: pizza made with an italian twist  (Price:$6)
  
  ## weekend deal 
-- biryani at 50% off
+- Biryani at 50% off
 - Price: $20
 - Discount: 10% extra off for loyal customers.
