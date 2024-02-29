@@ -13,3 +13,6 @@
 - name:Sita Jain, Description of discount plan for quaterly users: 5% off on first purchase.
 - name:Gita Singh, Description of discount plan for quaterly users: 5% off on first purchase.
 
+## loyal users
+- name:Puja Singh, Description of discount plan for quaterly users: 15% off on all purchase.
+- name:Rina Singh, Description of discount plan for quaterly users: 15% off on all purchase.
